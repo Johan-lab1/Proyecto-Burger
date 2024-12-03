@@ -17,3 +17,6 @@ cuántos)
 - Patatas pequeñas(1€), medianas(2€) 
 - Si el precio total se pasa de 12€ se regala un llavero.
 Se preguntará todo y se dirá el precio final y si se lleva un regalo o no.
+
+Ejercicio 17.
+Pedir un número al usuario y mostrar su tabla de multiplicar.
